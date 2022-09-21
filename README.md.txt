@@ -28,3 +28,4 @@
 28.-arreglar discrepancia
 29.- git merge -d v0.2
 
+![]  (https://github.com/LuisContreras1299/PM1/tree/master/Imagenes/dos_caras.png)

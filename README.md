@@ -28,8 +28,8 @@
 28.-arreglar discrepancia
 29.- git merge -d v0.2
 
-![]  (https://github.com/LuisContreras1299/PM1/blob/master/Imagenes/dos%20_faces.png)
-![]  (https://github.com/LuisContreras1299/PM1/blob/master/Imagenes/Perfilfoto.png)
+![](https://github.com/LuisContreras1299/PM1/blob/master/Imagenes/dos%20_faces.png)
+![](https://github.com/LuisContreras1299/PM1/blob/master/Imagenes/Perfilfoto.png)
 ! [] (https://github.com/LuisContreras1299/PM1/blob/master/Imagenes/ssh.png)
 ![](https://github.com/LuisContreras1299/PM1/blob/master/Imagenes/Seguir.png)
 ![](https://github.com/LuisContreras1299/PM1/blob/master/Imagenes/seguir_repo.png)
